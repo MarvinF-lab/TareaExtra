@@ -1,6 +1,6 @@
 
 
-                                                                     ## RESUMEN UNIDAD 2
+                                                                      ## RESUMEN UNIDAD 2
 
 
 En la unidad 2 vimos lo que son las variables y aprendí que son datos que se almacenan en memoria y que pueden cambiar su valor al momento que se ejecuta un programa, también entendí que las variables se pueden identificar al seguir los estándares que correspondan al lenguaje de programación, unos de los estándares de las variables es que no son de longitudes muy cortas y que tampoco son muy largas, de cómo no se permiten los espacios entre las variables y el nombre de la variable identifica su valor, y de cómo el propósito de las variables es que se puedan entender tanto por el programador o por alguna otra persona que lo lea.
