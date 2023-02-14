@@ -1,35 +1,40 @@
                   
 
-                                                       LICENCIAS DE SOFWARE
+                                                       ##LICENCIAS DE SOFWARE
 
 
 
-Las licencias de software son unos contratos en los que el usuario acepta los t閞minos y condiciones del fabricante para poder hacer uso del software. Las licencias que se adquieran (independientemente de si son de pago o gratuitas) ser醤 m醩 restrictivas o menos. Dependiendo de si el software es libre o propietario, estos t閞minos y condiciones ser醤 m醩 restrictivos o menos.
+Las licencias de software son unos contratos en los que el usuario acepta los t茅rminos y condiciones del fabricante para poder hacer uso del software. Las licencias que se adquieran (independientemente de si son de pago o gratuitas) ser谩n m谩s restrictivas o menos. Dependiendo de si el software es libre o propietario, estos t茅rminos y condiciones ser谩n m谩s restrictivos o menos.
 
-Por tanto, las licencias son los permisos que un fabricante o desarrollador proporciona para la distribuci髇, uso y/o modificaci髇 del software. Las licencias pueden estar limitadas a periodos de tiempo, variar seg鷑 el territorio donde se aplica (ya que las licencias deben cumplir con las leyes locales), etc
+Por tanto, las licencias son los permisos que un fabricante o desarrollador proporciona para la distribuci贸n, uso y/o modificaci贸n del software. Las licencias pueden estar limitadas a periodos de tiempo, variar seg煤n el territorio donde se aplica (ya que las licencias deben cumplir con las leyes locales), etc
      
 
-                                                     LICENCIAS DE CODIGO ABIERTO
-LICENCIA APACHE
+                                                     ##LICENCIAS DE CODIGO ABIERTO
+**LICENCIA APACHE**
 
 La licencia Apache es permisiva ya que no exige que las obras derivadas (versiones modificadas) del software se distribuyan usando la misma licencia (a diferencia de las licencias copyleft).
 
 
-LICENCIA MIT
+**LICENCIA MIT**
 
-Esta licencia es una Licencia de software libre permisiva lo que significa que impone muy pocas limitaciones en la reutilizaci髇 y por tanto posee una excelente Compatibilidad de licencia. La licencia MIT permite reutilizar software dentro de Software propietario.
+Esta licencia es una Licencia de software libre permisiva lo que significa que impone muy pocas limitaciones en la reutilizaci贸n y por tanto posee una excelente Compatibilidad de licencia. La licencia MIT permite reutilizar software dentro de Software propietario.
 
-LICENCIA GNU
+**LICENCIA GNU**
 
- la libertad de usar, estudiar, compartir (copiar) y modificar el software. Su prop髎ito es doble: declarar que el software cubierto por esta licencia es libre, y protegerlo (mediante una pr醕tica conocida como copyleft) de intentos de apropiaci髇 que restrinjan esas libertades a nuevos usuarios cada vez que la obra es distribuida.
+ la libertad de usar, estudiar, compartir (copiar) y modificar el software. Su prop贸sito es doble: declarar que el software cubierto por esta licencia es libre, y protegerlo (mediante una pr谩ctica conocida como copyleft) de intentos de apropiaci贸n que restrinjan esas libertades a nuevos usuarios cada vez que la obra es distribuida.
 
-                                                             LICENCIAS DE PROPIETARIOS
+                                                             ##LICENCIAS DE PROPIETARIOS
 
-El software propietario 1?, privativo 2? o no libre en contraposici髇 al software libre, es el software del cual no existe una forma libre de acceso a su c骴igo fuente, el cual solo se encuentra a disposici髇 de su desarrollador y no se permite su libre modificaci髇, adaptaci髇 o incluso lectura por parte de terceros.
+El software propietario 1?, privativo 2? o no libre en contraposici贸n al software libre, es el software del cual no existe una forma libre de acceso a su c贸digo fuente, el cual solo se encuentra a disposici贸n de su desarrollador y no se permite su libre modificaci贸n, adaptaci贸n o incluso lectura por parte de terceros.
 
 algunas licencias de propietariso son:
 windows/ macOS/ microsoft office/ windows media player/ microsoft edge.
 
+
+**fuente**
+<-TIC Portalhttps://www.ticportal.es>
+<-FdIwiki ElPhttps://wikis.fdi.ucm.es>
+<-https://es.wikipedia.org>
 
 
 
